@@ -13,3 +13,4 @@
 <!--  * [Desenvolvimento continuo](#desenvolvimento-continuo) -->
 <!--  * [Recursos úteis](recursos-uteis) -->
 <!-- * [Autor](#autor) -->
+<!-- * [Agradecimentos](#agradecimentos) -->
