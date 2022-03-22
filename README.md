@@ -12,3 +12,4 @@
 <!--  * [O que aprendi](#o-que-aprendi) -->
 <!--  * [Desenvolvimento continuo](#desenvolvimento-continuo) -->
 <!--  * [Recursos úteis](recursos-uteis) -->
+<!-- * [Autor](#autor) -->
