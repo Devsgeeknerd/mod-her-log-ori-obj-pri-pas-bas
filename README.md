@@ -14,3 +14,4 @@
 <!--  * [Recursos úteis](recursos-uteis) -->
 <!-- * [Autor](#autor) -->
 <!-- * [Agradecimentos](#agradecimentos) -->
+* [Informações](#informações)
