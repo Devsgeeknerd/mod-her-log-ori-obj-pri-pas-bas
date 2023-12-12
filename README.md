@@ -3,10 +3,10 @@
 
 ***Conteúdo do Módulo:***
 
-* [ ] [O Que Herança?](https://github.com/Devsgeeknerd/cla-o-que-her-her-log-ori-obj-pri-pass-bas) &#128679;
-* [ ] [Aplicando Herança.](https://github.com/Devsgeeknerd/cla-apl-her-her-log-ori-obj-pri-pass-bas) &#128679;
-* [ ] [Sobrescrita de Métodos e a Palavra Reservada `super`.](https://github.com/Devsgeeknerd/cla-sob-met-pal-res-sup-her-log-ori-obj-pri-pass-bas) &#128679;
-* [ ] [O Modificador de Visibilidade `Protected`.](https://github.com/Devsgeeknerd/cla-o-mod-vis-pro-her-log-ori-obj-pri-pass-bas) &#128679;
+* [ ] [O Que Herança?](https://github.com/Devsgeeknerd/cla-o-que-her-her-log-ori-obj-pri-pas-bas) &#128679;
+* [ ] [Aplicando Herança.](https://github.com/Devsgeeknerd/cla-apl-her-her-log-ori-obj-pri-pas-bas) &#128679;
+* [ ] [Sobrescrita de Métodos e a Palavra Reservada `super`.](https://github.com/Devsgeeknerd/cla-sob-met-pal-res-sup-her-log-ori-obj-pri-pas-bas) &#128679;
+* [ ] [O Modificador de Visibilidade `Protected`.](https://github.com/Devsgeeknerd/cla-o-mod-vis-pro-her-log-ori-obj-pri-pas-bas) &#128679;
 
 <!-- Informações -->
 ## &#8505; Informações
